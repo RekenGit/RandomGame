@@ -9,6 +9,6 @@ Program posiada rozwijane menu w lewym górnym rogu, służące do Importowania 
 ### Ciekawostka
 Program był zrobiony po to by w gronie znajomych zamiast kłócić się o coś, można np.: w jaką gre zagrać, można było dać listę „gier” i wylosować tą w którą będzie się grało.
 #### Info
-Plik .exe to plik z skompilowanym programem.
-Plik .cs to plik zawierający skrypt programu.
+Plik .exe to plik z skompilowanym programem.<br/>
+Plik .cs to plik zawierający skrypt programu.<br/>
 Plik .lgfile to plik zawierający napisy które wczytuje program.
